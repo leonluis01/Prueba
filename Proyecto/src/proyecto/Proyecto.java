@@ -17,6 +17,7 @@ public class Proyecto {
         // TODO code application logic here
         
         System.out.println("Hola mundoo");
+        System.out.println("hoy se juega minecraft");
     }
     
 }
